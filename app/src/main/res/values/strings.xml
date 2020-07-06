@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SliderWithDotsIndicator</string>
+
+    <string name="slide_one_body">Легко находите друзей
+        по интересам и создавайте мероприятия вместе
+с AcePlace.</string>
+    <string name="slide_two_body">Слайд 2. Легко находите друзей
+        по интересам и создавайте мероприятия вместе
+с AcePlace.</string>
+    <string name="slide_three_body"> Слайд 3. Легко находите друзей
+        по интересам и создавайте мероприятия вместе
+с AcePlace.</string>
+
+    <string name="slide_one_title">Здравствуйте!
+    Добро пожаловать</string>
+    <string name="slide_two_title">Здравствуйте!
+    Добро пожаловать</string>
+    <string name="slide_three_title">Здравствуйте!
+    Добро пожаловать</string>
+
+    <string name="slide_app_name">Ace Place</string>
+
+    <string name="my_preference">"com.abc.MyPref"</string>
+    <string name="my_preference_key">"com.abc.MyPrefKey"</string>
+
+</resources>
